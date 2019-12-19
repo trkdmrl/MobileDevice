@@ -14,5 +14,5 @@
 
 -ApiError, ErrorHandler and ResMessage class
 
--Saving object in the devices.json to h2 database
+-Saving objects in the devices.json to h2 database
 
